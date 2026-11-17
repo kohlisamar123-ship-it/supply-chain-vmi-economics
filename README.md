@@ -3,7 +3,7 @@
 ![Executive Dashboard Preview](power_bi\dashboard_preview.png)
 
 ## Executive Summary
-Analyzed **9,215** historical supply chain orders **($16.27M total logistics spend)** to test whether **Vendor Managed Inventory (VMI)** actually reduces unit shipping and storage costs compared to standard ordering. On integrating various tools such as SQL modeling, hypothesis testing in Python, and an interactive Power BI executive dashboard, the analysis proves that VMI bulk shipping drives a **statistically significant 6.0% reduction in per-unit cost ($p = 0.012)**.
+Analyzed **9,215** historical supply chain orders **($16.27M total logistics spend)** to test whether **Vendor Managed Inventory (VMI)** actually reduces unit shipping and storage costs compared to standard ordering. On integrating various tools such as SQL modeling, hypothesis testing in Python, and an interactive Power BI executive dashboard, the analysis proves that VMI bulk shipping drives a **statistically significant 6.0% reduction in per-unit cost ($p$ = 0.012)**.
 
 ## Key Business Insights
 * **Warehousing Dominates Spend (99.50%):** Warehousing accounts for 99.50% of total supply chain costs, while freight represents just **$80,874** (0.50%).
