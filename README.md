@@ -22,6 +22,9 @@ Analyzed **9,215** historical supply chain orders **($16.27M total logistics spe
 1. **Expand VMI Enrollment at `PORT04`:** Transition high-frequency Standard customers at `PORT04` into VMI bulk replenishment to capture the validated 6% unit-cost reduction.
 2. **Audit `CRF` Warehousing Dwell Time:** Investigate why `CRF` orders accumulate $0.710/unit in storage costs despite zero company-paid freight, and tighten pickup SLAs.
 
+## Data Source
+[Supply Chain Logistics Problem Dataset](https://data.mendeley.com/datasets/w497c46995/1) — 9,215 order records across 7 relational tables (`OrderList`, `FreightRates`, `WhCosts`, `WhCapacities`, `ProductsPerPlant`, `VmiCustomers`, and `PlantPorts`).
+
 ## How to Run This Project
 
 ### 1. Prerequisites
