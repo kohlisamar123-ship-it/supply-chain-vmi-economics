@@ -1,8 +1,8 @@
 # Supply Chain Order Economics & VMI Efficiency Review
 
-![Executive Dashboard Preview](<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/kohlisamar123-ship-it/supply-chain-vmi-economics/main/power_bi/dashboard_preview.png" alt="Supply Chain VMI Dashboard Preview" width="100%">
-</p>)
+</p>
 
 ## Executive Summary
 Analyzed **9,215** historical supply chain orders **($16.27M total logistics spend)** to test whether **Vendor Managed Inventory (VMI)** actually reduces unit shipping and storage costs compared to standard ordering. On integrating various tools such as SQL modeling, hypothesis testing in Python, and an interactive Power BI executive dashboard, the analysis proves that VMI bulk shipping drives a **statistically significant 6.0% reduction in per-unit cost ($p$ = 0.012)**.
